@@ -17,3 +17,5 @@ Various machine learning algorithms are considered for fraud detection, includin
 
 **Training**
 The selected model is trained using the preprocessed data. Hyperparameter tuning may be performed using techniques such as grid search or random search to optimize model performance. Cross-validation is employed to assess the generalization capability of the model.
+**output**
+The program will produce binary output after analyzing a dataset to differentiate between genuine and fraudulent transactions. It will assign a value of 1 to real or legitimate transactions and a value of 0 to fraudulent transactions.
