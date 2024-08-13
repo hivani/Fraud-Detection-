@@ -1,5 +1,5 @@
 # Fraud-Detection-
-**#Overview**
+#Overview#
 This project aims to build a fraud detection system using machine learning algorithms. The system analyzes transaction data to identify potentially fraudulent activities and flags them for further investigation.
 **Introduction**
 Fraudulent activities pose a significant threat to businesses and individuals alike. Detecting and preventing fraud is crucial for maintaining trust and security. This project leverages machine learning techniques to automatically detect fraudulent transactions, helping businesses mitigate risks and protect their assets.
